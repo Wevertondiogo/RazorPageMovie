@@ -24,3 +24,4 @@ namespace RazorPagesMovie
                 });
     }
 }
+//https://docs.microsoft.com/pt-br/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-5.0&tabs=visual-studio-code
